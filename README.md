@@ -104,3 +104,11 @@ The analyses assess associations between continuous contextual language use scor
 ### Contact
 
 For any queries about the data or analysis scripts, contact the corresponding author listed in the associated publication.
+
+### Licensing
+
+- **R analysis scripts:** Licensed under the MIT license (LICENSE)
+- **Trial-level datasets:** Licensed under the Creative Commons Attribution 4.0 International License (LICENSE-CC-BY-4.0).
+
+The licenses apply to the specified materials separately. Please consult the relvant license before reusing or redistributing any material.
+  
